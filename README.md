@@ -12,11 +12,5 @@ Hints - Yes! you can get a random hint depending on the current grid!
 Author
 @SuhaanBhandary
 Installation
-View using GitHub pages
-
-Visit https://suhaan-bhandary.github.io/Sudoku-Game/
-Making Changes and trying you hand on !
-
-1. Its a React code so just fork it and download the code on you device.
-2. Open CMD and go to the project directory and run "yarn install"
+"yarn install"
 3. Then run the code with: "yarn start" and enjoy!
